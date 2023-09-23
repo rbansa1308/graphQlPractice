@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John Doe",
+      "age": 100,
+      "companyId": 1
+    },
+    {
+      "id": 3,
+      "firstName": "John Smith",
+      "age": 30,
+      "companyId": 2
+    },
+    {
+      "id": 4,
+      "firstName": "Jane Smith",
+      "age": 35,
+      "companyId": 3
+    },
+    {
+      "firstName": "Mayaaaank",
+      "age": 11,
+      "id": 5
+    },
+    {
+      "firstName": "Mayaaaank",
+      "age": 11,
+      "id": 6
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Google",
+      "description": "Don't be evil"
+    },
+    {
+      "id": 2,
+      "name": "Facebook",
+      "description": "Social network"
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "description": "Think different"
+    }
+  ]
+}
